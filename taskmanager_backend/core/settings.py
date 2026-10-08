@@ -151,7 +151,7 @@ STATIC_URL = 'static/'
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://localhost:5173',
-    'https://task-manager-gold-theta.vercel.app',
+    'https://task-manager-tau-ten-39.vercel.app',
 ]
 
 
